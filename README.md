@@ -53,4 +53,4 @@ Open **http://127.0.0.1:5000** in your browser.
 
 | Member name | Roll number | Category | Variant implemented |
 |-------------|-------------|----------|---------------------|
-|             |             | OS Command Injection | In-band (output returned) |
+|Jashan Goyal | IIT2024223  | OS Command Injection | In-band (output returned) |
